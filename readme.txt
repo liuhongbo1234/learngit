@@ -1,2 +1,2 @@
-liuhongbo is studying Git
+liuhongbo is studying Git!
 It is Sunny!
