@@ -1,3 +1,3 @@
-liuhongbo is studying Git!
+Liuhongbo is studying Git!
 It is Sunny!
 heolll
